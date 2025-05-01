@@ -46,5 +46,5 @@ I am actively working to understand their applications and am currently explorin
 
 ## 📫 Contact
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shihyen-lo-59494429b/)) or check out my works on GitHub!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shihyen-lo-59494429b) or check out my works on GitHub!
 
