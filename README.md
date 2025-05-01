@@ -1,14 +1,42 @@
-### Hi! Everyone 👋,
+# Hi! Everyone 👋
 
-I am a backend engineer with a growing interest in algorithmic trading. 
+I am a backend engineer with a growing interest in algorithmic trading and AI applications.
 
-I am actively working to understand its applications and am currently exploring its implementation on blockchain exchanges such as Binance and Bybit.
+I am actively working to understand their applications and am currently exploring implementation on blockchain exchanges such as Binance and Bybit.
 
-<h3>My Skill Tree</h3>
-<p>
-  <img alt="CSharp" src="https://img.shields.io/badge/-CSharp-8DD6F9?style=flat-square&logo=Csharp&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-5849BE?style=flat-square&logo=Javascript&logoColor=white" />
-  <img alt="Html5" src="https://img.shields.io/badge/-HTML5-B7178C?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-DD0031?style=flat-square&logo=MySQL&logoColor=white" />
-  <img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-43853d?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white" />
-</p>
+---
+
+## 🎉 Latest Achievement
+
+🏆 **2025 雲湧智生：台灣生成式 AI 應用黑客松競賽**
+- 💡 獲得 **台新金控｜金融創新組 優選獎**
+- 📂 [競賽專案連結](https://github.com/Pelly0524/taishin-ai-hackathon-formal)
+- 🤖 利用生成式 AI 與金融知識解決實務問題
+
+---
+
+## 🌱 My Skill Tree
+
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+<!-- ## 📌 Pinned Projects
+
+| Project | Description |
+|--------|-------------|
+| [btc-ml-pipeline](https://github.com/yourname/btc-ml-pipeline) | A pipeline to explore low-frequency Bitcoin trading with machine learning models like XGBoost, incorporating sentiment and technical indicators. |
+| [BlockChainStrategy](https://github.com/yourname/BlockChainStrategy) | 多層次交易策略設計與自動化，專為區塊鏈交易與 AI 策略結合所打造的模組化實驗框架。| 
+---
+
+-->
+
+
+## 📫 Contact
+
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shihyen-lo-59494429b/)) or check out my works on GitHub!
+
