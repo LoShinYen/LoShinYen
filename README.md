@@ -64,6 +64,11 @@
       <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" width="50" height="50"/><br/>
       <strong>Azure</strong>
     </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1920px-RabbitMQ_logo.svg.png" alt="RabbitMQ" width="50" height="50"/><br/>
+      <strong>RabbitMQ</strong>
+    </td>
+  </tr>
 </table>
 
 ---
